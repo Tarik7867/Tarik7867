@@ -1,4 +1,7 @@
-<img src="https://raw.githubusercontent.com/Tarik7867/Tarik7867/main/5TMy.gif" width="300" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarik7867/Tarik7867/main/5TMy.gif" width="300">
+</p>
+
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Tarik
